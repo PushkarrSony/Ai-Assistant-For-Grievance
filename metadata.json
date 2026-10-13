@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant for Grievance Redressal System",
+  "description": "Intelligent AI-powered grievance redressal assistant with automated NLP categorization, multilingual support, transparent tracking, and department routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
